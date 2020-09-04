@@ -1,0 +1,2 @@
+# palinderomeChecker
+JavaScript Palindrome Checker
